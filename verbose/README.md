@@ -7,8 +7,8 @@ Written by: dwang
 
 # Solution:
 
-- Looks like JSFuck to me so we just naively run it in the browser console -> we get redirected
+- Looks like JSFuck to me so we just put it in [JsUnFuck](http://codertab.com/JsUnFuck)
 
-- Rename it to .js and run it using nodejs (usually a bad idea) and we get this
+![solution](https://i.imgur.com/G0NagIj.png)
 
-![solution](https://i.imgur.com/DZtnz7B.png)
+(Alternatively run it in the browser console or any other js environment like nodejs)
