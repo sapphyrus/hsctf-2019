@@ -13,6 +13,7 @@ Written by: Weastie
 - Google our MD5 `6df4c2a41091d8c737db7a44e3d07fb3` just to not find any results, thats not gonna help us
 - Look through the git history manually or clone it and
 ![log](https://i.imgur.com/iWxFpDI.png)
+
 There we have our password
 - Try out the password:
 ![success](https://i.imgur.com/JUCi9bZ.png)
